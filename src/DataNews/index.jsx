@@ -11,4 +11,4 @@ export default class DataNews extends React.Component {
     }
 }
 
-// halaman ini digunakan pada 'Komponen/Navbar' untuk mencari data berita
+// halaman ini digunakan pada 'Komponen/index' untuk mencari data berita
